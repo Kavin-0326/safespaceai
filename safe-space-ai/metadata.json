@@ -1,0 +1,6 @@
+{
+  "name": "Safe Space AI",
+  "description": "A privacy-first, anonymous safety platform for reporting incidents and emergency SOS alerts with a premium, trustworthy interface.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["Real-time alerts", "Anonymous reporting", "AI-powered incident analysis"]
+}
